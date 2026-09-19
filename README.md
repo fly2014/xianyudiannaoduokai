@@ -8,3 +8,4 @@
 那么哪里下载：钢筋指纹浏览器-标签版
 [官网](https://gjllq.com)<br>
 
+![软件截图](https://github.com/fly2014/xianyudiannaoduokai/blob/main/xy.png?raw=true)
